@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.footcontain{
+    display: flex;
+    background-color: black;
+    height: 60vh;
+    justify-content: center;
+    
+}
+
+.logoplusname{
+    padding-left: 40px;
+    padding-top: 40px;
+    position: relative;
+    right: 470px;
+}
+
+.footerlist{
+    position: relative;
+    left: 270px;
+}
+.footerlist ul{
+    list-style: none;
+}
+.footerlist li a{
+    color: white;
+    text-decoration: none;
+    
+}
+.footerlist li{
+    padding-top: 40px;
+}
